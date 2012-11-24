@@ -1,0 +1,6 @@
+pawned
+======
+
+This is a chess machine I wrote for my MSc Computer dissertation. It was the first program of any great length that I wrote in Java, since I had sneakily begun it at the very start of my course and only later turned it into my dissertation.
+
+I wrote this program in my innocent days before source control, so at the moment it is a little broken. I will get around to fixing it at some point.
